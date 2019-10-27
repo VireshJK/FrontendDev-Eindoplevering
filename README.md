@@ -1,5 +1,6 @@
 # FrontendDev-Eindoplevering
 Dit is de repository voor mijn eindoplevering van Frontend Development
+Link: https://vireshjk.github.io/FrontendDev-Eindoplevering/
 
 
 Bronnen:
